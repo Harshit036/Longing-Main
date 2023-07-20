@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "longing-main",
+    "staging": "longing-main"
+  },
+  "targets": {},
+  "etags": {}
+}
